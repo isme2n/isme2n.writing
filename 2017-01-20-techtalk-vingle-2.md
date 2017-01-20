@@ -95,3 +95,9 @@
     * 너무 큰 기능 변화 - 변화의 End Point에서만 쪼개면 문제 없음.
     * 버려진 피쳐플래그 누적 - 지우기 번거로움..아직 해결 못함
     * 피쳐플래그간의 종속성 - QA 안 끝나면 피쳐플래그 위에 피쳐플래그..아직 해결 못함
+
+* 참조
+    * https://martinfowler.com/articles/feature‑toggles.html
+    * https://martinfowler.com/bliki/FeatureToggle.html
+    * https://msdn.microsoft.com/en‑us/magazine/dn683796
+    * http://apptimize.com/feature‑flags‑launch/
